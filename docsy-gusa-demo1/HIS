@@ -1,0 +1,17 @@
+
+layouts/docs  add
+layouts/programs add
+
+contents/ja/programs add
+contents/ja/prog add
+
+
+assets/scss  add
+
+
+
+programs/ overview2 add
+      2 flex view (sorce| comment)
+
+
+https://satabeblog.com/post/hugo-syntax-change/

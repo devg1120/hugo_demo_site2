@@ -1,0 +1,25 @@
+
+# yarn
+# vi package.json 
+
+    "_hugo": "hugo --cleanDestinationDir ",                       #OLD
+    "_hugo": "hugo --cleanDestinationDir --bind 0.0.0.0",         #NEW
+
+
+# npm run serve
+
+
+
+open http://127.0.0.1:1313/
+
+
+---
+title: Ability Methods
+linkTitle: Abilities
+date: 2020-04-04
+type: docs
+weight: 1
+description: >
+  Ability estimation methods.
+---
+

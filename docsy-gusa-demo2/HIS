@@ -1,0 +1,33 @@
+
+layouts/docs  add
+layouts/programs add
+
+contents/ja/programs add
+contents/ja/prog add
+
+
+assets/scss  add
+
+
+
+programs/ overview2 add
+      2 flex view (sorce| comment)
+
+programs/ overview3 add
+
+     code syntax highlite
+
+     https://michimani.net/post/development-hugo-syntax-highlight/
+     https://satabeblog.com/post/hugo-syntax-change/
+
+     hugo gen chromastyles --style=monokai > static/css/syntax.css
+
+/* Background */
+.chroma {
+    color: #f8f8f2;
+    background-color: #272822;
+    max-height: 400px; /* Change to your desired max height */
+    overflow-y: scroll;
+    font-family:  'Source Code Pro', monospace;
+}
+

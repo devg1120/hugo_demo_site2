@@ -1,0 +1,4 @@
+cd exampleSite
+yarn
+npm run serve
+
